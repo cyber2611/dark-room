@@ -4,6 +4,7 @@ buat chattingan lewat termux tod,<br>
 biar kaya heker hekeran<br>
 Install ?<br>
 $ pkg install python2<br>
+$ pkg install curl<br>
 $ pkg install git<br>
 $ git clone https://github.com/rezadkim/dark-room<br>
 $ cd dark-room<br>
